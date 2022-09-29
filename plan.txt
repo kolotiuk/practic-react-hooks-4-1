@@ -1,0 +1,17 @@
+------------------Forms-----------------------------
+- Неконтрольовані форми з event.currentTarget.elements
+- Паттерн controlled element 
+- Робота з input, checkbox, radio, select
+- Форма реєстрації
+- Генерація id для елементів форми
+- Коллекція завдань: 
+    - фільтрація по вмісту (текст)
+
+
+-----------jsconfig.json-----------
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
